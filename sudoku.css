@@ -1,0 +1,6 @@
+table { border-collapse: collapse;}
+input { width: 12px; padding: 4px; text-align: center; }
+colgroup, tbody { border: solid 3px; }
+td { border: solid thin; height: 40px; width: 40px; text-align: center; }
+.bold-bottom { border-bottom: solid 3px; }
+.watch { width: 30px; }

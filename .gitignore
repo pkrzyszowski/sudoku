@@ -1,0 +1,6 @@
+*~
+*.swp
+env/*
+.idea/*
+*.pyc
+.idea/workspace.xml
